@@ -1,7 +1,7 @@
 {
 "companyName": "paipoi",
 "productName": "harasuberi",
-"productVersion": "0.2",
+"productVersion": "0.8",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "Web.wasm.framework.unityweb",
